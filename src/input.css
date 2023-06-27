@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base{
+    :root{
+        --soft-orange: 35, 77%, 62%;
+        --soft-red:5, 85%, 63%;
+        --off-white:36, 100%, 99%;
+        --grayish-blue:233, 8%, 79%;
+        --dark-grayish-blue:236, 13%, 42%;
+        --very-dark-blue:240, 100%, 5%;
+    }
+}
+@layer components{
+    .nav-items{
+        @apply capitalize text-darkBlue/70 hover:text-red text-xl duration-200
+    }
+    .container{
+        @apply mx-auto w-[95%]
+    }
+}
