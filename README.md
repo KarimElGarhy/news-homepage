@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KarimElGarhy/news-homepage)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution ](https://github.com/KarimElGarhy/news-homepage)
+- Live Site URL: [live site ](https://karimelgarhy.github.io/news-homepage/)
 
 ## My process
 
